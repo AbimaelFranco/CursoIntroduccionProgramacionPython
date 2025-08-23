@@ -15,7 +15,7 @@ Todo el contenido está organizado por sesiones y se presenta en **cuadernos de 
 - Variables y tipos de datos (int, float, str, bool).
 - Operadores aritméticos y de asignación.
 
-### 🟢 Sesión 2: Lógica condicional y ciclos
+<!-- ### 🟢 Sesión 2: Lógica condicional y ciclos
 - Condicionales (if, elif, else).
 - Operadores lógicos (and, or, not).
 - Ciclos for y while.
@@ -53,4 +53,4 @@ Todo el contenido está organizado por sesiones y se presenta en **cuadernos de 
 ### 🟢 Sesión 10: Aplicaciones web con Flask
 - Conectar un script de Python a Flask para mostrar resultados en la web.
 
-### 🟡 Sesión 11: Evaluación final
+### 🟡 Sesión 11: Evaluación final -->
