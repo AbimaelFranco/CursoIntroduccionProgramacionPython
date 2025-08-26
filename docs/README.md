@@ -15,14 +15,14 @@ Todo el contenido está organizado por sesiones y se presenta en **cuadernos de 
 - Variables y tipos de datos (int, float, str, bool).
 - Operadores aritméticos y de asignación.
 
-<!-- ### 🟢 Sesión 2: Lógica condicional y ciclos
+### 🟢 Sesión 2: Lógica condicional y ciclos
+- Operadores lógicos (and, or, not). 
+- Función input().
+- Conversión de tipos de datos.
 - Condicionales (if, elif, else).
-- Operadores lógicos (and, or, not).
-- Ciclos for y while.
-- Control de flujo (break, continue).
-- Iteración con range() y colecciones.
+- Ciclos while.
 
-### 🟢 Sesión 3: Estructuras de datos y funciones
+<!-- ### 🟢 Sesión 3: Estructuras de datos y funciones
 - Estructuras de datos: listas, tuplas, diccionarios y sets.
 - Funciones: definición, parámetros, retorno.
 - Funciones avanzadas: argumentos nombrados y anidadas.
