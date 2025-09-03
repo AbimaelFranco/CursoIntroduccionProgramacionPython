@@ -2,6 +2,7 @@
 programacion.txt
 flask_project/
 tests.py
+tests/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
