@@ -20,15 +20,15 @@ Todo el contenido está organizado por sesiones y se presenta en **cuadernos de 
 - Función input().
 - Conversión de tipos de datos.
 - Condicionales (if, elif, else).
-- Ciclos while.
+- Ciclo while.
 
-<!-- ### 🟢 Sesión 3: Estructuras de datos y funciones
-- Estructuras de datos: listas, tuplas, diccionarios y sets.
+### 🟢 [Sesión 3: Estructuras de datos y funciones](./IPP_Sesion3.ipynb)
+- Estructuras de datos: listas, tuplas y diccionarios.
+- Estrucutra de control for.
+- Controladores de flujo: break y continue
 - Funciones: definición, parámetros, retorno.
-- Funciones avanzadas: argumentos nombrados y anidadas.
-- Modularización: organización del código en archivos y módulos.
 
-### 🟢 Sesión 4: Archivos y manejo de errores
+<!-- ### 🟢 Sesión 4: Archivos y manejo de errores
 - Manejo de archivos (open, read, write, with).
 - Introducción al manejo de errores (try, except, finally).
 - Ejercicios integradores (estructuras + funciones + archivos).
