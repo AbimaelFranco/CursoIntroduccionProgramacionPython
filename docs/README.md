@@ -28,12 +28,13 @@ Todo el contenido está organizado por sesiones y se presenta en **cuadernos de 
 - Controladores de flujo: break y continue
 - Funciones: definición, parámetros, retorno.
 
-<!-- ### 🟢 Sesión 4: Archivos y manejo de errores
+### 🟢 [Sesión 4: Archivos y manejo de errores](./IPP_Sesion4.ipynb)
+- Funciones (continuación)
 - Manejo de archivos (open, read, write, with).
 - Introducción al manejo de errores (try, except, finally).
 - Ejercicios integradores (estructuras + funciones + archivos).
 
-### 🟡 Sesión 5: Evaluación parcial
+<!-- ### 🟡 Sesión 5: Evaluación parcial
 
 ### 🟢 Sesión 6: Paquetes y librerías en Python
 - Introducción a pip e instalación de paquetes externos.
