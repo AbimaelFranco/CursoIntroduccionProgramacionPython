@@ -34,13 +34,11 @@ Todo el contenido está organizado por sesiones y se presenta en **cuadernos de 
 - Introducción al manejo de errores (try, except, finally).
 - Ejercicios integradores (estructuras + funciones + archivos).
 
-<!-- ### 🟡 Sesión 5: Evaluación parcial
-
-### 🟢 Sesión 6: Paquetes y librerías en Python
+### 🟢 Sesión 5: Paquetes y librerías en Python
 - Introducción a pip e instalación de paquetes externos.
 - Uso de librerías estándar (random, math, datetime).
 
-### 🟢 Sesión 7: Automatización con scripts
+<!-- ### 🟢 Sesión 7: Automatización con scripts
 - Desarrollo de scripts útiles: automatización de tareas sencillas.
 
 ### 🟢 Sesión 8: Mini herramientas en terminal
