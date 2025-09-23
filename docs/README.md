@@ -34,7 +34,7 @@ Todo el contenido está organizado por sesiones y se presenta en **cuadernos de 
 - Introducción al manejo de errores (try, except, finally).
 - Ejercicios integradores (estructuras + funciones + archivos).
 
-### 🟢 Sesión 5: Paquetes y librerías en Python
+### 🟢 [Sesión 5: Paquetes y librerías en Python](./IPP_Sesion5.ipynb)
 - Introducción a pip e instalación de paquetes externos.
 - Uso de librerías estándar (random, math, datetime).
 
