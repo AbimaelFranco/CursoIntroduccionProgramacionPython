@@ -18,7 +18,6 @@ def nombre_valido(nombre):
 
     return True
 
-
 def correo_valido(correo):
     """
     La siguiente función recibe una cadena de texto y verifica que contenga

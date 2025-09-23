@@ -19,9 +19,7 @@ def es_nombre_valido(nombre):
     return True
 
 def main():
-  """
-  Función principal de este script
-  """
+
   while True:
       nombre = input("Ingrese un nombre: ")
       if es_nombre_valido(nombre):
