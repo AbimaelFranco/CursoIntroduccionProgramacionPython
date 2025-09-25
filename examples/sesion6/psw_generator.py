@@ -17,7 +17,8 @@ def generar_contrasena(longitud: int) -> str:
         str: Contraseña generada aleatoriamente.
     """
     if longitud < 4:
-        raise ValueError("La longitud mínima recomendada es 4 caracteres.")
+        print("La longitud mínima recomendada es 4 caracteres.")
+        return ""
     
     # Conjuntos de caracteres
     letras_minusculas = string.ascii_lowercase

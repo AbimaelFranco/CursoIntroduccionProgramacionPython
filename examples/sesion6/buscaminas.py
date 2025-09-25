@@ -54,6 +54,8 @@ def create_board(rows, cols, mines_count):
                             if board[nr][nc] == 'M':
                                 count += 1
                 board[r][c] = count
+
+    # print(board)
     return board
 
 
